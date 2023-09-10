@@ -28,13 +28,12 @@ const myArr2 = new Array (1,2,3,34)
 // slice splice
 
 console.log("A",myArr);
-
 const myn1 =myArr.slice(2,4)
 
 console.log("B",myArr);
 
 const myn2 = myArr.splice(1,3)
-console.log(myn2); 
+console.log(myn2);
 
 console.log("C",myArr);
 
