@@ -21,6 +21,7 @@ function addTowNumbers(number1,number2){
    const saif = addTowNumbers(4,6)
    //console.log("Result:",saif)
     
+   // () parenthises
 
 
 function loginSahilMassage(username){
