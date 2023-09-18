@@ -6,7 +6,7 @@ while (index <=20) {
     index = index + 4 
 }
 
-let myArray = ["rajesh","rabbani","rakhesh"]
+let myArray = ["rajesh","rabbani","rakhesh"] 
 let arr = 0
 while( arr < myArray.length){
     //console.log(`value of is ${myArray [arr]}`);
